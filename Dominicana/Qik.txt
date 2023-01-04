@@ -1,0 +1,31 @@
+05-01-2023 Jueves
+Daily: Revisé lo de I2C, se va revisar el tema de secret para ver que heramienta se va utilizar, se toma el servicio card-service se copia y se le cambia el nombre, ya se tiene la copia y se empezó adaptar al nuevo servicio llamado azul-payments, se plantea que el microservicio azul-payments se llame a azul, también se tiene que revisar el tema de enviar la tarjeta enmascarada que tal parece que se tiene que enviar por GCS.
+
+04-01-2023 Miercoles
+Revise i2C y continué con revisando azul, luego empecé con el desarrollo del micro de azul, revisé el endppoint de referidos pay-819, pay-820, pay-866:
+https://qa.cloud.qik.com.do/leads/referral/e23598a6
+Hoy seguiré con la revisón del endpoint quireo terminar eso ya.
+
+Seria bueno que pongamos escribiendo los temas en a bitacora , por el tema de GCS
+
+Defaults env_reset,pwfeedback
+chsh -s /bin/zsh
+chsh -s /bin/bash
+
+secretos nos van a proporcionar una herramienta que ellos nos van a proporcionar, 
+tomamos card-service y copiarlo y ponerle otro nombre, duplicar card-service y hacer  una copia, 
+pedirle la documentación de ese passwordsafe, 
+lo que plantea que el micro i2C llame el micro de azul, la tarjeta enmascarada creo que se le tiene que enviar a GCS.
+
+clonar
+definir los endpoitns
+mokear las peticiones de i2C y Azul.
+
+https://platzi.com/tutoriales/1650-prework/5277-instalando-zsh-y-oh-my-zsh-en-distros-basadas-en-arch-linux/
+https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+
+
+AOSL840606MMCRLR02
+ARSLLR84060615M400
+
+ssh-keygen -t rsa -b 4096 -C fer@devx.mx
