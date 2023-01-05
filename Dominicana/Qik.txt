@@ -1,5 +1,3 @@
-05-01-2023 Jueves
-Daily: Revisé lo de I2C, se va revisar el tema de secret para ver que heramienta se va utilizar, se toma el servicio card-service se copia y se le cambia el nombre, ya se tiene la copia y se empezó adaptar al nuevo servicio llamado azul-payments, se plantea que el microservicio azul-payments se llame a azul, también se tiene que revisar el tema de enviar la tarjeta enmascarada que tal parece que se tiene que enviar por GCS.
 
 04-01-2023 Miercoles
 Revise i2C y continué con revisando azul, luego empecé con el desarrollo del micro de azul, revisé el endppoint de referidos pay-819, pay-820, pay-866:
@@ -29,3 +27,18 @@ AOSL840606MMCRLR02
 ARSLLR84060615M400
 
 ssh-keygen -t rsa -b 4096 -C fer@devx.mx
+
+duellj
+fox
+intheloop
+jonathan
+juanghurtado
+nicoulaj
+refined
+rkj-repos
+strug
+linuxonly
+
+05-01-2023 Jueves
+Daily: Revisé lo de I2C, se va revisar el tema de secret para ver que heramienta se va utilizar, se toma el servicio card-service se copia y se le cambia el nombre, ya se tiene la copia y se empezó adaptar al nuevo servicio llamado azul-payments, se plantea que el microservicio azul-payments se llame a azul, también se tiene que revisar el tema de enviar la tarjeta enmascarada que tal parece que se tiene que enviar por GCS.
+
