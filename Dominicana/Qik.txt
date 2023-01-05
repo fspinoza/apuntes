@@ -42,6 +42,19 @@ linuxonly
 05-01-2023 Jueves
 Daily: Revisé lo de I2C, se va revisar el tema de secret para ver que heramienta se va utilizar, se toma el servicio card-service se copia y se le cambia el nombre, ya se tiene la copia y se empezó adaptar al nuevo servicio llamado azul-payments, se plantea que el microservicio azul-payments se llame a azul, también se tiene que revisar el tema de enviar la tarjeta enmascarada que tal parece que se tiene que enviar por GCS.
 
+Leo esta mirando con Ricardo Concecpción el tema de GCS.
+Se solucionó de lo AWS de Carlos Mansilla
+Jorge: Vio lo de referidos, creo lo del ticket de credolab para ver la tabla, el template de correo ya lo terminó ayer, ya lo termina y se lo envia a Israel, implementar accion de pago se queda en develop por que no pueden probar, paa tener el pago tenemos que tener OK lo de GCS.
+Felipe: Tenia 3 dudas que le resolvió Bianca, y se le va ayudar con el tema del icono por default, despues de que le confirmen del icono se hace el MR.
+Israel: Esta con el avance con sus tareas esta esperando el template de correo que es lo que Jorge le contaba a Steph, si tiene el tempate hoy quiz'sá puede terminar hoy y pasarla mañana temprano, tiene una duda con el ticket de credolab(627), ahí'ya habia movido sus tareas a Qa sin embargo vio que Francis las regresó a ready for Qa, su preocupación es que las dejaron en QA, Francis-implementaron que las HU no se iban enviar QA hasta que no esten completas, Isra-Ya esta todo, pero Francis le comenta que la parte de front falta, y JOrge dice que falta lo de validar que ya funcione revisando las tablas, Stef dice que como ya terminó entonces JOrge tendria que mover las tarjetas a QA cuando se termine lo de revisar la tabla que nos de Devops, y cuando vayan a concluir suben evidencia. Isarel comenta que devops ya retomo el tema de GCS y hoy día tiene una reunión con GCS para ver el tema.
+Carlos: Tuvo problemas en probar el servicio de multipagos en el ambiente de desarrollo, pero se conluyó que el servicio de I2C tiene un problema y parece que de unas horas se arregló, pudo revisar las pruebas y coordino con edagr unas pruebas y vio el tema de integración y ya funcionó, estará haciendo el MR para pasar a QA, Stef le pregunta si necesita integrar con frron, le contesta Carlos que para eso reunió con Edgar para probar eso, es decir las unitarias están nitidas.
+Edgar: le pregunta EStef sobre el ticket que tiene pendiente, ya cerró'la parte de integración ya tiene la pantalla para mostrar el resultado
+
+Daniel Y JOrge ya se muestra los registros de los ultimos 5 pagos pero se necestia de GCS, JOrge prioriza los temas que tiene para que vaya cerrando.
+Daniel: Hoy podría seguir con lo de MR pero tiene comentarios, y continuar con pruebas de integración, de la HU 787, 
+JOrge comenta bianca que ya esta lo de MR y le dice a lr ayude.
+Mary: Pide una reunión pare visar lo de crédito, pero puede ser a las 12 de Bianca, le comenta Raulyn que ya esta el icono para Felipe.
+
 
 06-01-2023 Viernes
 
