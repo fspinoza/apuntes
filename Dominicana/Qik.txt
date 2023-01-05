@@ -55,6 +55,15 @@ Daniel: Hoy podría seguir con lo de MR pero tiene comentarios, y continuar con 
 JOrge comenta bianca que ya esta lo de MR y le dice a lr ayude.
 Mary: Pide una reunión pare visar lo de crédito, pero puede ser a las 12 de Bianca, le comenta Raulyn que ya esta el icono para Felipe.
 
+GCS reunión:
+Ernesto Nina nos deja con 
+Ricardo Concepción,
+Andres Lopez
+
+Hanvan Shan le comenta Ricardo que van aseguir trabajando para ver donde esta el error de cloudfront,, ayer fueron acorralando el error, parece que algo en el CDM es lo que nos esta bloqueando,   
+
+
+Vieron que hay un tema de cloudfrotn y enlo que vean que saltan ese paso nos contacta para ver si jala, ayer hicierion un debug y vieron un error, 
 
 06-01-2023 Viernes
 
