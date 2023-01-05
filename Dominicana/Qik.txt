@@ -35,10 +35,15 @@ jonathan
 juanghurtado
 nicoulaj
 refined
-rkj-repos
+rkj-repos <--- Este es el que tengo actualmente
 strug
 linuxonly
 
 05-01-2023 Jueves
 Daily: Revisé lo de I2C, se va revisar el tema de secret para ver que heramienta se va utilizar, se toma el servicio card-service se copia y se le cambia el nombre, ya se tiene la copia y se empezó adaptar al nuevo servicio llamado azul-payments, se plantea que el microservicio azul-payments se llame a azul, también se tiene que revisar el tema de enviar la tarjeta enmascarada que tal parece que se tiene que enviar por GCS.
 
+
+06-01-2023 Viernes
+
+
+09-01-2023 Lunes
