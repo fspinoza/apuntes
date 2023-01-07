@@ -106,6 +106,8 @@ La 565 la 864 esta pendiente
 
 feature/PAY-627-financial-score-service
 
+esta fallando el servicio oboarding-service, tal parece que hay algo que subieron que esta bien, algo así como una variable unleash 
+
 
 
 09-01-2023 Lunes
