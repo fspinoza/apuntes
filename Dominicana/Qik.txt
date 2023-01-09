@@ -110,4 +110,9 @@ esta fallando el servicio oboarding-service, tal parece que hay algo que subiero
 
 
 
-09-01-2023 Lunes
+09-01-2023 Lunes869 la ermino Isra, no pudo hacerla prueba por ke tema de GCS y lo estuvo viendo, 
+Daniel: Esta con la pay 705, una subarea tiene obervaciones de unit test, estuvo con eso reviso las pruebas de integración del etma de notificación de servicios que están un dia de vencer igual esta bloqueado por GCS solo funciona en QA pero tiene un inconsistencia de GCS, lo reviso si tiene contexto de esto Julian, va revisar lo del MR.
+Carlos: la tarea 790 quedó una aprobación por part de Guido, hoy le esta escribiwendo, salieron observaciones pero ya las corrigió, esta viendo lo de i2C.
+Edgar: La 843 la tiene con test para hacer los MR también esta bloqueda por parte de GCs lo tiene moqueado para las vistas, 
+
+Conexión de GCS del ambiente de pruebas, se ha creado un tunel para conectar para conectar los ambientes de QA y dev, GCS es el servicio externo para consultar los proveedores de los usuarios de quik por ejemplo de proveedores de telefono, y su deuda, el tunel es una VPN en AWS esta dando un time out desde nuestros ambientes al host de GCS
