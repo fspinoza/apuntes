@@ -116,3 +116,11 @@ Carlos: la tarea 790 quedó una aprobación por part de Guido, hoy le esta escri
 Edgar: La 843 la tiene con test para hacer los MR también esta bloqueda por parte de GCs lo tiene moqueado para las vistas, 
 
 Conexión de GCS del ambiente de pruebas, se ha creado un tunel para conectar para conectar los ambientes de QA y dev, GCS es el servicio externo para consultar los proveedores de los usuarios de quik por ejemplo de proveedores de telefono, y su deuda, el tunel es una VPN en AWS esta dando un time out desde nuestros ambientes al host de GCS
+
+Monto
+Reference ID para obtener el PAN de i2C, es el identificador de  la tarjeta, 
+QikTransactionID <- es un número que nosotros tenemos que generar, 
+Consultar a Edgar si si podemos usar el modulo de i2C que ya existe,de paso le pregunto si vamos reutilizar el código de i2C que ya existe o si vamos a crear uno nuevo. 
+
+
+Azul devuelve 
