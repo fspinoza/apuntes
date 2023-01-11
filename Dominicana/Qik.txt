@@ -110,7 +110,8 @@ esta fallando el servicio oboarding-service, tal parece que hay algo que subiero
 
 
 
-09-01-2023 Lunes869 la ermino Isra, no pudo hacerla prueba por ke tema de GCS y lo estuvo viendo, 
+09-01-2023 Lunes
+869 la ermino Isra, no pudo hacerla prueba por ke tema de GCS y lo estuvo viendo, 
 Daniel: Esta con la pay 705, una subarea tiene obervaciones de unit test, estuvo con eso reviso las pruebas de integración del etma de notificación de servicios que están un dia de vencer igual esta bloqueado por GCS solo funciona en QA pero tiene un inconsistencia de GCS, lo reviso si tiene contexto de esto Julian, va revisar lo del MR.
 Carlos: la tarea 790 quedó una aprobación por part de Guido, hoy le esta escribiwendo, salieron observaciones pero ya las corrigió, esta viendo lo de i2C.
 Edgar: La 843 la tiene con test para hacer los MR también esta bloqueda por parte de GCs lo tiene moqueado para las vistas, 
@@ -123,4 +124,26 @@ QikTransactionID <- es un número que nosotros tenemos que generar,
 Consultar a Edgar si si podemos usar el modulo de i2C que ya existe,de paso le pregunto si vamos reutilizar el código de i2C que ya existe o si vamos a crear uno nuevo. 
 
 
+
+Woking en progress, 
 Azul devuelve 
+
+10-01-2023 Martes
+Revisando la conexión con azul, y documentanción de GCS asi como viendo el desarrollo de azul como microservicio, se hizo también documentación de arquitectura tanto diagramas como documentación escrita
+
+901 ya esta completa
+472 ya esta completa
+747 ya esta completa se va a probar y puede que pase sin problema es del tema del lead de correos es le tema de los 20 mil correos y también la palabra de Hugo. No se pudo sacar adelante, se necesitan los logs
+
+Se bloquean casí todas por el tema de GCS las bloquea Bian, 
+
+Feipe ya modificó la parte web, falta solo los correos, la parte web ya esta, falta ver si ya esta el MR, Edgar Gonzales  pueder ver lo de los correos.
+Francis pregunta si queda esto de felipe hoy, feli contesta que si lo MR's quedan si ya quedan para hoy.  
+
+Necesito aclarar el tema de los estatus de la documentación que dejó Betsy
+
+Mesa técnica, 
+
+FERNANDO EMILIO RUIZ ABREU
+
+
