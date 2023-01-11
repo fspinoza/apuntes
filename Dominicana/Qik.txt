@@ -1,3 +1,18 @@
+Rep o front:
+https://gitlab.com/evodigitalrd/evo-applications/qik-bank-app/-/merge_requests/1347
+
+AWS:
+https://evo-digital.okta.com/app/amazon_aws_sso/exkjmipdmZ6fUFiTX696/sso/saml
+
+Documentación:
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/218333200/Pago+de+Servicios
+
+Liga aplicación web:
+https://dev.cloud.qik.com.do/
+
+Objetivo Mesa técnica:
+Objetivo: Realizar la mesa técnica, identificar si se requiere tickets de DevOps, y puntear todas las que se tienen pendientes por estimar, además de identificar las tareas que hay que realizar dentro de cada historia. Y Si se requiere dividir alguna, se invita a Bianca en ese momento para que de una vez quede dividida.
+
 
 04-01-2023 Miercoles
 Revise i2C y continué con revisando azul, luego empecé con el desarrollo del micro de azul, revisé el endppoint de referidos pay-819, pay-820, pay-866:
@@ -145,5 +160,24 @@ Necesito aclarar el tema de los estatus de la documentación que dejó Betsy
 Mesa técnica, 
 
 FERNANDO EMILIO RUIZ ABREU
+
+11-01-2023 Miercoles
+Estuve con la pay468 sobre la clasificación de referidos:
+
+Description	
+Validación estatus onboarding (Lista de espera, aprobado, rechazado) para vinculación de los estatus de referidos (En proceso, completado y abandonado) para poder mostrar en el seguimiento de referidos in APP.
+PAY-883 - PAY-861 Definición de la seguridad entre los micro servicios banco.
+
+Sobre lo de seguridad no se le ocurre más a Edgar
+
+pay-747 es sobre el tema de que no se estan guaradando el correo, YA QUEDÓ!!!
+
+Hoy tengo que terminar lo de refactor :
+https://evodigitalrd.atlassian.net/jira/software/c/projects/PAY/boards/80/backlog?view=detail&selectedIssue=PAY-565&issueLimit=100
+pay-569 ya la empezó Daniel, ya la tiene en desarrollo
+
+
+El problema es por un feature de terraform
+
 
 
