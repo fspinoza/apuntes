@@ -178,6 +178,9 @@ pay-569 ya la empezó Daniel, ya la tiene en desarrollo
 
 
 El problema es por un feature de terraform
+La 565 se necesita probar por Francis, estamos esperando que nos despieguen la app para el celular(movil)
+
+Coordinar los estatus con los demás equipos, la documentación que dejó Betsy, ahí dejó documentación. Esto para la tarea PAY-468 esto tiene que estar para mañana antes de la planning.
 
 
 
