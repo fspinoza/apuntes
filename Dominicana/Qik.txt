@@ -7,6 +7,9 @@ https://evo-digital.okta.com/app/amazon_aws_sso/exkjmipdmZ6fUFiTX696/sso/saml
 Documentación:
 https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/218333200/Pago+de+Servicios
 
+Documentación estados referidos:
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/222330901/Proceso+1+Validar+estados+de+referidos
+
 Liga aplicación web:
 https://dev.cloud.qik.com.do/
 
@@ -180,7 +183,113 @@ pay-569 ya la empezó Daniel, ya la tiene en desarrollo
 El problema es por un feature de terraform
 La 565 se necesita probar por Francis, estamos esperando que nos despieguen la app para el celular(movil)
 
+
+
+
+
+PAY-859
+Como diría Epicteto, No serás libre si no eres dueño de ti mismo.
+
+
+
+12-01-2023 Jueves
+PAY-860  La estoy investigando:
+Como diría Epicteto, No serás libre si no eres dueño de ti mismo.
+
+PAY-861: HOY TERMINO LA DOCUMENTACIÓN:
+Definición de la seguridad entre los micro servicios banco
+
+PAY-748 SE LA PASO A DANIEL O A CARLOS, CARLOS YA ESTA CON LO DE i2C.
+Desarrollo de microservicio para conexión con azul para proceso de pago
+
+PAY-858
+Desarrollo de microservicio para conexión con i2c para consulta de pan.
+
+PAY-565 AYER SE AVANZÓN CON JORGE Y SER REVISÓ
+Refactor referidos - Home multiproducto (Pago de bono por referimiento)
+
+PAY-747 Ya esta en QA,entiendo que ya no salió otra cosa.
+Ajustes formulario pre registro
+
+PAY-627 lA ESTA LLEVANDO MÁS JORGE, ENTIENDO QUE AYER SALIERON UNOS DETALLES QUE REVISO JORGE.
+Integración SDK Credolab
+
+PAY-899
+PoC - Integración API Código CASH
+Ayer hice la prueba de concepto. Hoy la documento en confluence.
+
+PAY-864
+Recepción de notificaciones de recordatorio en las fechas programadas
+
+PAY-864
+Implementar flujo para que el aplicante a referidos pueda estar en ella desde la APP
+
+Clasificación de estatus para referidos PAY-468
 Coordinar los estatus con los demás equipos, la documentación que dejó Betsy, ahí dejó documentación. Esto para la tarea PAY-468 esto tiene que estar para mañana antes de la planning.
+-Core
+-On boarding ahora es engagement
+-Pagos
+-Cuenta de ahorros: Lo que posiblemente puede importar es los estatus de on boarding
+
+-Posiblemente cafeina donde esta Guido
+
+
+COMPLETADO: En que pdoructos aplicas, en TC, ahorro, en ese caso aplica la cuenta de referido. 
+EN PROCESO,  del lado 
+ABANDONADO, cuando es considerado es abandonado?, hay alg'ún limte de tiempo para dejar el onboarding?
+RECHAZADO*
+Juan Diego de cuenta ahorro es dev, si no lo hablo con Roddy Rios
+Validación estatus onboarding (Lista de espera, aprobado, rechazado) para vinculación de los estatus de referidos (En proceso, completado y abandonado) para poder mostrar en el seguimiento de referidos in APP.
+
+Yo como usuario de negocios quiero definir como tiempo límite para elegibilidad del bono/recompensa por referimiento a tres (3) meses, en caso de superar este período sin consumo, el usuario quedaria fuera del programa y ninguno recibiria la recompensa.
+
+Cual es la condición de neogcio para que se de por hecho que esta completadao, y cuando esta proceso.
+
+Raulyn ayer ya Bian con lo del cdigo cash, mary se quedó con esa tarea, ya creo que ya esta, ya le notifico a Bian, el codigo cash ya quedó. PAY-75
+Francis: Validando la HU 747 se levantaron unos puntos pero creo que ya esta del otro lado. Se estuvo trabajando con lo de los correos la 898 se estuvo validando y ajustes, el d'ia de hoy se necsita dar final.  la 898 ya esta en prudcción ayer se hizo el pase. La 565 la estuvo revisando Fernando la tiene que pasar a QA en al Jira por que sigue en dev, 
+Jorge esta revisando lo de credolab, se le notifica a Edgar para que haga el merge, 
+Carlos: sigue con el desarrollo por unas dependencias que esta revisando por que entiende que va ser desplegado 
+Daniel: Ya identificó'el flujo quiere ver si hay una forma de identificar el tipo de error cuando no hay fondos, necesita similuar un error de fondos insuficientes, un QA puede simular es la 659. Le damos fedback a Stef y si es posible integramos a Stef.
+
+Felipe: No le ha podido aportar mucho lo que ha hecho mucho ya ha capturado ciertas peticiones en cuanto tenga el query de grapql creira que ya hoy podríá seguir hoy PAY-523.
+Israel: Estuvo viendo el tema de los corroes, avanzo la pay-813 así que ya tiene identificado cuales son los servicios que no debieriamos poder compartirse y espera empezar con eso, con el tema de GCS le pasó'la voz concepción pero no lo pudo atender, le avisó pero ya no revisó contestación, pregunta a Bian si le dieron un update, BIan le contesta que es que sobre el tema de la VPN, no funcionó y devops tienen otra opción hay que darle prioridad, un problema de los correos es que infraestructura estuvo haciendo cambios en terraform y eso nos afectó.
+
+Azul para poder concetarse saca unas credenciales de AWS, 
 
 
 
+
+El input referenceID
+
+AZUL: pagian 18
+
+
+PAY-860
+Construcción de la entrega de la imagen de los micro servicios en la infraestructura banco
+
+PAY-861
+Definición de la seguridad entre los micro servicios banco
+
+PAY-565
+Refactor referidos - Home multiproducto (Pago de bono por referimiento)
+
+Me reuno con Daniel para revisar, también con Carlos,  le dejo saber a Stef en que acuerdo quedamos
+
+duplicarl el endpoint de card-account pero sin autirización sin esa linea que esta en las 304 que pide que tenga un permiso especial.
+
+desde un job de payments-servcice se necesita llamar algo de card-service
+
+
+
+Lo de rechazdos va aparecer en completados con el estatus de abadonado
+Necesitamos tambien el evento de activar tarjeta, 
+Podemos ir avanzando con la pay-130, solo necesitamos ver si es posible revisar los mensajes de on boarding desde el micro de onboarding
+
+
+
+Terminar referidos la documetnación.
+Cash se queda para su siguietne semana.
+
+
+select * from referral_information;
+select * from referral_information_detail
