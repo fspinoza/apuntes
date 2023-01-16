@@ -13,6 +13,9 @@ https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/222330901/Proces
 Liga aplicación web:
 https://dev.cloud.qik.com.do/
 
+Figma:
+https://www.figma.com/file/GqGkOBQ9CHwc9NVGJ1Ofib/RFD---PAG?node-id=1%3A188&t=8cQBD6vgZRRBU49E-0
+
 Objetivo Mesa técnica:
 Objetivo: Realizar la mesa técnica, identificar si se requiere tickets de DevOps, y puntear todas las que se tienen pendientes por estimar, además de identificar las tareas que hay que realizar dentro de cada historia. Y Si se requiere dividir alguna, se invita a Bianca en ese momento para que de una vez quede dividida.
 
@@ -293,3 +296,16 @@ Cash se queda para su siguietne semana.
 
 select * from referral_information;
 select * from referral_information_detail
+727
+728
+
+
+Revisar con Alfred el si nos pueden enviar los estados de on boarding
+
+898 - completa felipe
+565 -
+864 - 
+
+
+747 - Se queda de carryover
+
