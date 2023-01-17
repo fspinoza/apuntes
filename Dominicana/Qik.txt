@@ -1,3 +1,6 @@
+cursos a dar:
+https://baufestcloud.sharepoint.com/:x:/r/sites/BaunasCloud/UPDevelopment/_layouts/15/Doc.aspx?sourcedoc=%7B24DC40D7-B373-4914-B586-A89D9BB2A54B%7D&file=SWDEV-BY23-CHARLASTECNICAS-CALENDARIO.xlsx&action=default&mobileredirect=true
+
 Rep o front:
 https://gitlab.com/evodigitalrd/evo-applications/qik-bank-app/-/merge_requests/1347
 
@@ -308,4 +311,6 @@ Revisar con Alfred el si nos pueden enviar los estados de on boarding
 
 
 747 - Se queda de carryover
+
+vamos a ver si se puede hacer con  lo de onboarding process
 
