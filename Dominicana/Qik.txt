@@ -1,8 +1,11 @@
 cursos a dar:
 https://baufestcloud.sharepoint.com/:x:/r/sites/BaunasCloud/UPDevelopment/_layouts/15/Doc.aspx?sourcedoc=%7B24DC40D7-B373-4914-B586-A89D9BB2A54B%7D&file=SWDEV-BY23-CHARLASTECNICAS-CALENDARIO.xlsx&action=default&mobileredirect=true
 
-Rep o front:
+Repo front:
 https://gitlab.com/evodigitalrd/evo-applications/qik-bank-app/-/merge_requests/1347
+
+Repo Back
+git clone git@gitlab.com:evodigitalrd/evo-applications/evo-digital-eks.git
 
 AWS:
 https://evo-digital.okta.com/app/amazon_aws_sso/exkjmipdmZ6fUFiTX696/sso/saml
@@ -313,4 +316,33 @@ Revisar con Alfred el si nos pueden enviar los estados de on boarding
 747 - Se queda de carryover
 
 vamos a ver si se puede hacer con  lo de onboarding process
+
+Enero-17-2023
+
+958 validarlo con Alfredo, el de crédito ya esta validado con Alfredo pero quiere que los validemos con Alfredo.
+
+
+Que necesitamos para desplegar en BDP, del monorepo se va a desplegar a BPD, es por password less lo de i2C, necesito saber como funciona el ambiente de BPD, 
+un weiber lo que es aprobar alguien aprobar al alguien cuando se rechazó.
+
+Hacer el job que lo cambie a abandonado, y prguntes que va a pasar con esas condiciones,  
+Indexar transacciones y esa función va a consultar las transacciones para ver si se tiene compras.
+-lexisnexis
+-waiver
+	
+Andrés López
+
+Job y la transaacción
+
+Se pide un micro a devops, 
+
+
+-Se crea un caso en Jira se ponen los detalles y se asigna una persona para trabajar en el micro.
+-Necesitamos entregarlo, se tiene que entregar en una imagen dockers, 
+
+El tema de referidos, nosotros tenemos 
+
+pasarle las cedulas con las que prueba Francis para que las pase a QA.
+
+en el campo cedulas se tienen que poner las más recientes tabla de leads del ambiente de QA
 
