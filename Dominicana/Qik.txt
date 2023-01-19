@@ -345,4 +345,20 @@ El tema de referidos, nosotros tenemos
 pasarle las cedulas con las que prueba Francis para que las pase a QA.
 
 en el campo cedulas se tienen que poner las más recientes tabla de leads del ambiente de QA
+_e
+
+
+Rau falrta el dashbord cuando ya el usaurio tiene activo la digital necesitamos algo que dispare la solicitud de la fisica, el tema de fonfo lo ve con maritza.
+Francis estubo tratando de probar lo de credolab, va aprobar con Android, le pidio a justin que le active el flujo de cuentas, queda el ajuste de landing que esta trabajando felipe, también para recordrle a bianca que falta lo de UXCAn, stef tien que ver eso con crhis, por que las imagenes no se ven, francis segun le dijo edgar que no se ven, Bian loq ue pasa con eso es que hay alguna restrcciones, crhis tiene que aprobar para que se gabre la pantañla y eso podamos verlo. Stef va a coordinar con Chris para que podamos ver los videos. Ricardo subió un cambio para lo de referidos. el ambiente de GCS sigue abajo sigue carlos sigue trabajando en esa solución,eso afecta a la 536
+
+La 858 del microservicio, sobre eso esta revisando los hilos de devops parace ser que ya lo tomó valentino y esperar un rato y luego preguntar en un par de horas como vas respecto a eso.la pelota esta del lado de devops carlos le va aestar dando seguimiento.
+La 566 tambíen esta detenida por el tema de GCS, lo que falta es la prueba de integración que se ttenia que gacer ayer que esta detenida por lo de GCS esto lo lleva Jorge
+La pay-468 es el como vamos a leer el archivo de transacción eso comenta Daniel, tenems ahí en esa tarea dos objetivos primero camvbiar el estatus a abandonado, hay que delimitar, vamos a sacar esa parte de los 90 días eos dice se tiene que acer un job desde schedule service, y segundo tenemos que cambiara el estatus a arpobado cuandi cambia a aprobado eso se hace del lado de .... ya ha y un proceso.
+
+Actualizacipon de nombre de cambpos esta a la espera de la información que le va a dar Bian,  Isra tiene dudas sobre lo que consultoria a GCS por parte de Bian, si tienes espacio que me apoye ISra con lo temas que esoty trabajando.
+
+Felipe estatrabajando en el tema de la plantilla, reviso con Carlos que tienen que hacer maás dianmico el botón(no se de que) y con respecto al botón que tiene abrir la pantalla de pagos, falta ver el tema de pagar, 
+Edgar, 
+
+Jorge: con los temas de GCs si puede seguir, (captura lead cliente, pay-936) ellos enviaron correo ayer con la información que necesita jorge, 
 
