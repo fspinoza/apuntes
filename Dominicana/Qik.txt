@@ -14,13 +14,29 @@ Documentación:
 https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/218333200/Pago+de+Servicios
 
 Documentación estados referidos:
-https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/222330901/Proceso+1+Validar+estados+de+referidos
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/222330901/Proceso+1+Validar+estados+de+referidos<
 
 Liga aplicación web:
 https://dev.cloud.qik.com.do/
 
 Figma:
 https://www.figma.com/file/GqGkOBQ9CHwc9NVGJ1Ofib/RFD---PAG?node-id=1%3A188&t=8cQBD6vgZRRBU49E-0
+
+Lexisnexis
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/114918569/Lexisnexis
+
+Qik Cash
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/217939994/Diagrama+T+cnico+Conceptual
+
+
+Arquitectura de la plataforma:
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/53215391/Arquitectura+de+Soluci+n+de+la+Plataforma+EVO+AWS
+
+Material de aprendizaje:
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/36962992/Material+de+Lectura+-+Frameworks+y+Herramientas
+
+Onfido:
+https://evodigitalrd.atlassian.net/wiki/spaces/EVODIGITAL/pages/92471719?focusedCommentId=92504668#comment-92504668
 
 Objetivo Mesa técnica:
 Objetivo: Realizar la mesa técnica, identificar si se requiere tickets de DevOps, y puntear todas las que se tienen pendientes por estimar, además de identificar las tareas que hay que realizar dentro de cada historia. Y Si se requiere dividir alguna, se invita a Bianca en ese momento para que de una vez quede dividida.
@@ -362,3 +378,6 @@ Edgar,
 
 Jorge: con los temas de GCs si puede seguir, (captura lead cliente, pay-936) ellos enviaron correo ayer con la información que necesita jorge, 
 Carlos: estubvieron viendo el tema de la plantilla y ajustar por BD's para ver el tema de las imagenes.
+
+bira
+bureau
