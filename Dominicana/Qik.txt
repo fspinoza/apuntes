@@ -1,4 +1,4 @@
-SI QUIERES CAMBIAR LAS COSAS RADICALMENTE.. TIENES QUE HACER CAMBIOS MÁS GRANDES.
+SI QUIERES CAMBIAR LAS COSAS RADICALMENTE... TIENES QUE HACER CAMBIOS MÁS GRANDES.
 
 cursos a dar:
 https://baufestcloud.sharepoint.com/:x:/r/sites/BaunasCloud/UPDevelopment/_layouts/15/Doc.aspx?sourcedoc=%7B24DC40D7-B373-4914-B586-A89D9BB2A54B%7D&file=SWDEV-BY23-CHARLASTECNICAS-CALENDARIO.xlsx&action=default&mobileredirect=true
@@ -384,4 +384,93 @@ Carlos: estubvieron viendo el tema de la plantilla y ajustar por BD's para ver e
 bira
 bureau
 
-23 enero 2023
+23 enero 2023 Sabado
+La siguietne conversación se dió el viernes y esto lo apunté el lunes:
+Bianca Albino
+
+Loading history...
+1:34
+cuando van a hacer eso?
+
+
+Fernando Espinoza
+  1:34 PM
+El lunes lo tendría que hacer, pero..
+1:34
+solo punteamos 2
+
+
+1:34
+las demás ya estaban
+
+
+Bianca Albino
+  1:35 PM
+pero yo presente 4 nuevas y solo hay 2 punteadas
+1:35
+por eso te digo
+
+
+Fernando Espinoza
+  1:35 PM
+ah ok ok, déjame lo reviso en cuanto los chicos regresen de almorzar
+
+
+Bianca Albino
+  1:36 PM
+Y el comentario del E2E de pagos tambien
+1:36
+que estuvo generico... si identificaron que faltan pantallas
+1:36
+diganme cuales faltan segun su revisión para que lo veamos con Raulyn
+
+
+Fernando Espinoza
+  1:37 PM
+ok, déjame ponerme de acuerdo con los chicos
+
+
+Bianca Albino
+  1:38 PM
+Y tambien, actualizamos las pantallas que hablamos ayer de recarga de datos y minutos
+1:38
+estan en figma en la parte de refinamiento
+
+
+Fernando Espinoza
+  1:38 PM
+ok, las busco
+
+23 enero 2023 Lunes
+Credolab obitne los permisos pero simplemente no los envia al BACK, endev funciona pero en QA no funciona, ya se pusieron logs pero estamos tardando bastante por que no tenia permisos, credolab si obtiene los datos pero como que esta la falla a la hora del back, pero de pronto en el back también poner más logs, Edgar le dijo que sale un permiso de "Apple MUsic " pero no se esta usando y se tiene que quitar. Lo dela foto sale algo de reclamación que Bian ya la se le envió a francis, francis comenta que es un tema de acceso a la galeríá de fotos, pero jorge comenta que puede ser algo ya de acceso del mismo ios, el texrto de acceso a los documentos parace ser un texto de pruebas en si es ese texto el que no va comenta Bian.
+
+Felipe queda un tema que le comentó Francis que lo debe cerrar
+
+
+
+pay-929 Se puede mencionar como bug corregido Bug
+pay-194 se podría mostrar UXCam
+pay-825 se puede mencionar como bug corregido
+
+
+  "errorCode": "200",
+  "errorDescription": "Success",
+  "message": {
+    TransactionId": "10122",
+    OTP": "276481",
+    Telefono": "18095445555",
+    Monto": 50,
+    Moneda": "DOP",
+    MontoCambioDivisa": 0,
+    MontoRetiro": 100.4,
+    MonedaDestino": "DOP",
+    Comision": 50,
+    Expiracion": ""
+  }
+  
+  
+  Preguntas:
+  Como se hace la autorización, que es el X-IBM-Client-ID
+  
+  
+  password safe y también la URL que vamos a consumir de i2C
