@@ -481,6 +481,8 @@ pay-825 se puede mencionar como bug corregido
   
   -hacer un listado de las tareas
   -Listar las tareas que se necesitan para termnar todo.
+  
+  hablar con azul para conectarnos en desarrollo
   -Hacer digrama de código cash
   -Hacer implemtnación para recuperar eso del secret manager para cash.
   
@@ -497,5 +499,30 @@ pay-825 se puede mencionar como bug corregido
   Como última prioridad:
   -Implmentar los logs y quitar try-catch 1 hora.
   
+  
   -Conexión password safe hacer prueba, necesitamos tener un ambiente de pruebas.
   -
+  adalberto y luis oscar
+  
+  
+  key: The API key configured in BeyondInsight for your application.
+l runas: The username of a BeyondInsight user that has been granted permission to use the API key.
+l pwd: The RunAs user password surrounded by square brackets (optional; required only if the User Password is required on the
+application API registration).
+  
+  Hacer mock de conexión con Azul, faltan las credenciales.
+  Password safe
+   Subtareas:
+   1-key
+   2-RunAs
+  
+   referenceID y usuario se obtiene de card-service, para obtener la referencia no se obtiene desde el front se obtiene desde card-service, desde graph ql ya tienes el usaurio. esto se envia a payent intgration gateqwya
+   
+   
+  
+  graphql->
+  
+  Unleash es una plataforma de banderas, y pueen tomar valores binarios, 
+  habalr con anyelo
+  hisoriea 519
+  
